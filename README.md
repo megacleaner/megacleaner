@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href="https://megacleaner.app">Website</a> &bull;
-  <a href="https://github.com/megacleaner/megacleaner/releases/latest">Download</a> &bull;
+  <a href="https://megacleaner.app/download">Download</a> &bull;
   <a href="https://megacleaner.app/contact">Contact</a>
 </p>
 
@@ -52,7 +52,7 @@ MegaCleaner goes deeper than generic cleaners — it understands Xcode DerivedDa
 - Native Swift app — under 20 MB, no Electron
 
 <p align="center">
-  <a href="https://github.com/megacleaner/megacleaner/releases/latest"><strong>Download MegaCleaner</strong></a>
+  <a href="https://megacleaner.app/download"><strong>Download MegaCleaner</strong></a>
 </p>
 
 ---
