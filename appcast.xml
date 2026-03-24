@@ -10,6 +10,19 @@
 
     <!-- Add new <item> entries here. See docs/release-guide.md in the dev repo. -->
     <item>
+      <title>Version 1.0.1 (2)</title>
+      <sparkle:version>2</sparkle:version>
+      <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <pubDate>Tue, 24 Mar 2026 14:34:26 +0000</pubDate>
+      <enclosure
+        url="https://github.com/megacleaner/megacleaner/releases/download/v1.0.1/MegaCleaner-1.0.1.dmg"
+        sparkle:edSignature="XqsXo8hyXdtK2mdYjLv2yKdAUnuhayXjV4oevsy79GZ3NUvU4NIPrZGG7J+DzWglXUwCMP4oY3qPQGpDAZFoCQ=="
+        length="5044987"
+        type="application/octet-stream"
+      />
+    </item>
+    <item>
       <title>Version 1.0 (1)</title>
       <sparkle:version>1</sparkle:version>
       <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
