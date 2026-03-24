@@ -8,8 +8,7 @@
     <description>MegaCleaner release feed</description>
     <language>en</language>
 
-    <!-- Add new <item> entries here when publishing releases.
-         See the release guide in the dev repo for instructions. -->
+    <!-- Add new <item> entries here. See docs/release-guide.md in the dev repo. -->
 
   </channel>
 </rss>
