@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="icon.png" width="128" alt="MegaCleaner icon" />
+  <img src="icon.svg" width="128" alt="MegaCleaner icon" />
 </p>
 
 <h1 align="center">MegaCleaner</h1>
