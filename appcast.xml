@@ -10,6 +10,31 @@
 
     <!-- Add new <item> entries here. See docs/release-guide.md in the dev repo. -->
     <item>
+      <title>Version 1.1.1 (6)</title>
+      <sparkle:version>6</sparkle:version>
+      <sparkle:shortVersionString>1.1.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <pubDate>Fri, 01 May 2026 00:19:25 +0100</pubDate>
+      <description sparkle:format="markdown"><![CDATA[- 10 new scanners: Cloud Storage, Office Apps, Electron Apps, CI/CD & Cloud, Developer Tools, Virtualization, Shell Tools, External Volumes, macOS Installers, and more programming languages
+- Expanded browser coverage with 8 additional browsers including Brave, Edge, and Vivaldi
+- Detects old Chromium framework versions inside browser apps (can save 200-800 MB)
+- ML/AI model cache detection for HuggingFace, PyTorch, and TensorFlow
+- Frontend build tool caches: Vite, Webpack, Parcel, ESLint, Prettier, and more
+- JetBrains Toolbox old IDE version detection
+- Incomplete download detection (.crdownload, .part files)
+- External volume trash scanning
+- Sandboxed app and Group Container cache scanning
+- Smarter orphan detection with running-process awareness
+- New custom icons for Docker, Android, Terraform, Git, and Electron
+- Total coverage: 39 scanners, 148 sub-features]]></description>
+      <enclosure
+        url="https://github.com/megacleaner/megacleaner/releases/download/v1.1.1/MegaCleaner-1.1.1.dmg"
+        sparkle:edSignature="1gIeDynJ59pVtYO2ii8h8WeTExJlckiF0EBvsZDLy1mbl51lipKVFwASHXtj29oQ8aaCN5mQ5tcxsxhSUCfUDw=="
+        length="5546908"
+        type="application/octet-stream"
+      />
+    </item>
+    <item>
       <title>Version 1.1.0 (5)</title>
       <sparkle:version>5</sparkle:version>
       <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
