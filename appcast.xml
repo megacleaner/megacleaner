@@ -10,6 +10,24 @@
 
     <!-- Add new <item> entries here. See docs/release-guide.md in the dev repo. -->
     <item>
+      <title>Version 1.1.2 (7)</title>
+      <sparkle:version>7</sparkle:version>
+      <sparkle:shortVersionString>1.1.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <pubDate>Sat, 23 May 2026 22:51:00 +0100</pubDate>
+      <description sparkle:format="markdown"><![CDATA[- New Project Logs scanner finds huge log files hiding in your dev projects (Laravel, Rails, Node, Spring Boot, and more). The multi-GB `laravel.log` no other cleaner sees.
+- Scan one category at a time. Click Scan on any Dashboard card, or Rescan inside a category, to refresh just that one.
+- Per-category scan buttons show live progress like "Scanning 42%…" for scanners that report it (Xcode, Node modules).
+- Menu bar tray keeps the app running in the background. Closing the window now hides it instead of quitting.
+- Fixed item selection silently breaking after loading cached scan results.]]></description>
+      <enclosure
+        url="https://github.com/megacleaner/megacleaner/releases/download/v1.1.2/MegaCleaner-1.1.2.dmg"
+        sparkle:edSignature="3j8GbJJpcqeY8fhFdTMYYkn8bi3BmGrbDKAbT0Pw/MsiirYrNkfifrYm3dQRvJT0xxibLCccjtOWnP+F+YV6BQ=="
+        length="5625452"
+        type="application/octet-stream"
+      />
+    </item>
+    <item>
       <title>Version 1.1.1 (6)</title>
       <sparkle:version>6</sparkle:version>
       <sparkle:shortVersionString>1.1.1</sparkle:shortVersionString>
