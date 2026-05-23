@@ -6,7 +6,7 @@
 
 <p align="center">
   <strong>Your dev tools are why your disk is full.</strong><br>
-  They cache everything and clean up nothing. We scan 29 of them in seconds.
+  They cache everything and clean up nothing. We scan 39 of them in seconds.
 </p>
 
 <p align="center">
@@ -36,14 +36,15 @@ MegaCleaner goes deeper than generic cleaners — it understands Xcode DerivedDa
 
 ## What it scans
 
-**29 scanners. 90+ sub-features. Every ecosystem.**
+**39 scanners. 148 sub-features. Every ecosystem.**
 
 | Languages & Frameworks | Developer Tools | System |
 |---|---|---|
-| Node.js, Python, Rust, Go | Xcode, Docker, Git | System Cache, Downloads |
-| Java, Ruby, PHP, C++ | CocoaPods, Homebrew | Trash, Mail, Log Files |
-| .NET, Flutter, Swift | Terraform, Android, VS Code | App Leftovers, iOS Backups |
-| | Playwright, JetBrains | Browsers (Chrome, Safari, Firefox, Arc) |
+| Node.js, Python, Rust, Go | Xcode, Docker, Git, Kubernetes | System Cache, Downloads |
+| Java, Ruby, PHP, C++ | CocoaPods, Homebrew, Postman | Trash, Mail, Log Files |
+| .NET, Flutter, Swift | Terraform, Android, Electron | App Leftovers, iOS Backups |
+| Elixir, Haskell, Zig | VS Code, JetBrains, Playwright | Cloud Storage, Office Apps |
+| | CI/CD & Cloud, Shell Tools | Browsers (8), External Volumes |
 
 ## Requirements
 
