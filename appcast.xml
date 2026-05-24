@@ -10,6 +10,22 @@
 
     <!-- Add new <item> entries here. See docs/release-guide.md in the dev repo. -->
     <item>
+      <title>Version 1.2.0 (9)</title>
+      <sparkle:version>9</sparkle:version>
+      <sparkle:shortVersionString>1.2.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <pubDate>Sun, 24 May 2026 13:00:10 +0100</pubDate>
+      <description sparkle:format="markdown"><![CDATA[- **MegaCleaner is now free.** All cleaning unlocked, no license, no paywall.
+- New anonymous daily heartbeat so I can count active installs. No files, paths, or identity collected. See the [privacy policy](https://megacleaner.app/privacy) for what's sent.
+- Follow me on X for what's coming next: [@nixeton](https://x.com/nixeton).]]></description>
+      <enclosure
+        url="https://github.com/megacleaner/megacleaner/releases/download/v1.2.0/MegaCleaner-1.2.0.dmg"
+        sparkle:edSignature="nRXL2HmaW6PAOO9upQMFjRrQQ032/eitoewZyevlCtxOEt4VypALx5+3ACKwR2jdbPV0b0e9/zoV29s3GbJjBg=="
+        length="5539258"
+        type="application/octet-stream"
+      />
+    </item>
+    <item>
       <title>Version 1.1.2 (7)</title>
       <sparkle:version>7</sparkle:version>
       <sparkle:shortVersionString>1.1.2</sparkle:shortVersionString>
