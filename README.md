@@ -10,6 +10,10 @@
 </p>
 
 <p align="center">
+  <strong>Free. Forever.</strong> No license keys. No subscription.
+</p>
+
+<p align="center">
   <a href="https://megacleaner.app">Website</a> &bull;
   <a href="https://megacleaner.app/download">Download</a> &bull;
   <a href="https://megacleaner.app/contact">Contact</a>
