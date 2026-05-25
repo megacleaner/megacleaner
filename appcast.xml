@@ -10,6 +10,20 @@
 
     <!-- Add new <item> entries here. See docs/release-guide.md in the dev repo. -->
     <item>
+      <title>Version 1.2.1 (10)</title>
+      <sparkle:version>10</sparkle:version>
+      <sparkle:shortVersionString>1.2.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <pubDate>Mon, 25 May 2026 01:10:26 +0100</pubDate>
+      <description sparkle:format="markdown"><![CDATA[- **Simulator runtime cleanup.** Xcode leaves behind iOS and watchOS runtime images every time it updates, 7 to 19 GB each. MegaCleaner now lists them and pre-selects the empty and superseded ones.]]></description>
+      <enclosure
+        url="https://github.com/megacleaner/megacleaner/releases/download/v1.2.1/MegaCleaner-1.2.1.dmg"
+        sparkle:edSignature="d/FP54vJ3FW2zV2mhkbBKVyJgjJfXWFFqgXO8Gx/bMQ4Pz6aUpZ8FFKEfFPe49oqrAa1NtVPbyXFFCGAV0ckBg=="
+        length="5560089"
+        type="application/octet-stream"
+      />
+    </item>
+    <item>
       <title>Version 1.2.0 (9)</title>
       <sparkle:version>9</sparkle:version>
       <sparkle:shortVersionString>1.2.0</sparkle:shortVersionString>
