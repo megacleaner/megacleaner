@@ -10,6 +10,20 @@
 
     <!-- Add new <item> entries here. See docs/release-guide.md in the dev repo. -->
     <item>
+      <title>Version 1.3.0 (11)</title>
+      <sparkle:version>11</sparkle:version>
+      <sparkle:shortVersionString>1.3.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <pubDate>Tue, 26 May 2026 13:45:51 +0100</pubDate>
+      <description sparkle:format="markdown"><![CDATA[- **Reclaim Purgeable Space.** macOS sits on cached files and Time Machine local snapshots until the disk is nearly full. MegaCleaner now shows the amount and lets you free it on demand.]]></description>
+      <enclosure
+        url="https://github.com/megacleaner/megacleaner/releases/download/v1.3.0/MegaCleaner-1.3.0.dmg"
+        sparkle:edSignature="RQsqa3HvHP92MZvEhqYqI9F30Fii/OzJBKiKsFWpCfSm/E2XWHNmxvhzpM9dcA4Ww3o1axwO/aQuQUUBy/reCQ=="
+        length="5732040"
+        type="application/octet-stream"
+      />
+    </item>
+    <item>
       <title>Version 1.2.1 (10)</title>
       <sparkle:version>10</sparkle:version>
       <sparkle:shortVersionString>1.2.1</sparkle:shortVersionString>
