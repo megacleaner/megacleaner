@@ -10,6 +10,23 @@
 
     <!-- Add new <item> entries here. See docs/release-guide.md in the dev repo. -->
     <item>
+      <title>Version 1.3.1 (12)</title>
+      <sparkle:version>12</sparkle:version>
+      <sparkle:shortVersionString>1.3.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <pubDate>Thu, 28 May 2026 02:41:52 +0100</pubDate>
+      <description sparkle:format="markdown"><![CDATA[- **Nothing is auto-selected.** Every scan result starts unchecked. You pick exactly what to clean.
+- **Much smarter App Leftovers.** Now detects helper bundles, XPC services, app extensions, login items, Homebrew formulae, LaunchAgents, and pkg-installed software. Apps installed in subfolders and Apple-acquired apps like Pixelmator no longer show up as leftovers.
+- **"Why flagged" reason.** Each App Leftovers item now explains why it was suggested so you can decide quickly.
+- **Simpler confidence badges.** Two levels instead of three: Likely Safe and Review Recommended. The old "Safe to Delete" green badge is gone because no detection is ever certain enough to bypass a glance.]]></description>
+      <enclosure
+        url="https://github.com/megacleaner/megacleaner/releases/download/v1.3.1/MegaCleaner-1.3.1.dmg"
+        sparkle:edSignature="CHuKqPpEhC7sWJsj5uaxyGOuUPFRiaH7s91jRlyJvku1XmmAn+EGUG6P5noyI9y/cozIVrki4Nk6y4q/f0cnBg=="
+        length="5783588"
+        type="application/octet-stream"
+      />
+    </item>
+    <item>
       <title>Version 1.3.0 (11)</title>
       <sparkle:version>11</sparkle:version>
       <sparkle:shortVersionString>1.3.0</sparkle:shortVersionString>
