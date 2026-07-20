@@ -10,6 +10,22 @@
 
     <!-- Add new <item> entries here. See docs/release-guide.md in the dev repo. -->
     <item>
+      <title>Version 1.4.0 (13)</title>
+      <sparkle:version>13</sparkle:version>
+      <sparkle:shortVersionString>1.4.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <pubDate>Mon, 20 Jul 2026 18:55:17 +0100</pubDate>
+      <description sparkle:format="markdown"><![CDATA[- **Safer cleaning.** Files go to Trash whenever possible, permanent actions require separate approval, and unsafe or changed items are blocked.
+- **Clearer results.** See what was cleaned, skipped, or blocked, compare disk space before and after, and export a detailed report.
+- **More transparent onboarding.** Learn how scanning, cleaning, and anonymous usage counting work before getting started.]]></description>
+      <enclosure
+        url="https://github.com/megacleaner/megacleaner/releases/download/v1.4.0/MegaCleaner-1.4.0.dmg"
+        sparkle:edSignature="08h7a1EyHj2VVRS2EOgu28sJlHkp3/7K+pamS179xQ5kwXvi+T+GhrJHjiR8P65DmfyWcfVjyJHcT9wJpBiBDg=="
+        length="5943291"
+        type="application/octet-stream"
+      />
+    </item>
+    <item>
       <title>Version 1.3.1 (12)</title>
       <sparkle:version>12</sparkle:version>
       <sparkle:shortVersionString>1.3.1</sparkle:shortVersionString>
