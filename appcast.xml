@@ -10,6 +10,20 @@
 
     <!-- Add new <item> entries here. See docs/release-guide.md in the dev repo. -->
     <item>
+      <title>Version 1.4.1 (14)</title>
+      <sparkle:version>14</sparkle:version>
+      <sparkle:shortVersionString>1.4.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <pubDate>Tue, 21 Jul 2026 23:31:39 +0100</pubDate>
+      <description sparkle:format="markdown"><![CDATA[- Fixed an issue where the MegaCleaner window could stay hidden when reopened from the menu bar or launched again.]]></description>
+      <enclosure
+        url="https://github.com/megacleaner/megacleaner/releases/download/v1.4.1/MegaCleaner-1.4.1.dmg"
+        sparkle:edSignature="VV7S9/idZNowPyIEOgq7sVAQhM1qAKU8akmqRln9RBC9EMhDLEupjNhtJo70w52CSCOHFsgdE1y/VkhR2/8cAQ=="
+        length="5953272"
+        type="application/octet-stream"
+      />
+    </item>
+    <item>
       <title>Version 1.4.0 (13)</title>
       <sparkle:version>13</sparkle:version>
       <sparkle:shortVersionString>1.4.0</sparkle:shortVersionString>
